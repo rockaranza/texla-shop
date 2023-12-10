@@ -97,9 +97,10 @@ html {
 .card > img {
   width: 30rem;
 }
-.card > h4 {
+.card > h3 {
   margin-top: 1rem;
   margin-bottom: 0.5rem;
+  font-size: 1.4rem;
 }
 .card > button {
   width: 10rem;
